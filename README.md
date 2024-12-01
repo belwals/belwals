@@ -7,7 +7,7 @@ I am a seasoned Software Developer with over 9 years of professional experience.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belwals&hide_progress=true&show_icons=true&theme=radical)
 
 #### 📊 Profile Summary:
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=belwals&show_icons=true&theme=radical)
+[![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=belwals&show_icons=true&theme=radical)](https://github.com/belwals)
 
 Let's create, innovate, and make a mark in the world of technology! Connect with me and let's bring ideas to life. 🌐💻
 
